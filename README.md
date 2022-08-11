@@ -1,3 +1,3 @@
 # Tasks
 
-![Text](./Tasks.png)
+![Text](./screenshots/Tasks.png)
